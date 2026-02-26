@@ -1,0 +1,45 @@
+---
+title: "Open Science Summer School 2026"
+---
+
+![](img/this_could_be_you.png){width=60% alt="photo of the philologicum library building, with a long middle part with a glass wall flancked by stone building parts. In front of the building, there is a profile outline of an anonymous group of people, one of them holding a laptop facing us with other people on the screen. An arrow points to the group of people and laptop, labelled 'this could be you!'" fig-align="center"}
+
+The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html){target="_blank"} organises its 5^th^ hybrid summer school. This year's iteration has two tracks to provide participants with two sets of skills.
+
+The in-person part of the school will take place in the Philologicum Library, **Ludwigstraße 25, 80539 München, Germany**. The online part will be on **Zoom**.
+
+## Track 1: Open Science knowledge and skills
+
+In this track, early career researchers who are Open Science novices learn to make their research more **transparent**, **reproducible** and **credible** in the eyes of their peers, the public, and funding agencies. This track consists of public lectures accessible to anyone as well as hands-on practical workshops for selected applicants and extends from Monday 07.09.2026 9:00 to Friday 11.09.2026 15:30.
+
+Participants of this track learn how to:
+
+-   Specify research design and set up statistical plans in advance of collecting data to prevent biases in analyses, with the help of **preregistration and data simulation**;
+
+-   Create **computationally reproducible workflows** to be more efficient and spot mistakes in data wrangling or analyses, through programming with version controlled scripts;
+
+-   **Prepare and share data and code** in connection with manuscripts by applying the Findable, Accessible, Interoperable, Reusable principles, and using adequate repositories and licenses to accumulate credit and citations.
+
+## Track 2: Open Science instructor training
+
+In this track, early career researchers or research support staff interested in becoming Open Science instructors develop essential **pedagogical skills to promote Open Science through teaching** - no prior experience in teaching required. This track takes place from Monday 14.09.2026 09:00 to Tuesday 15.09.2026 17:30.
+
+Participants of this track will:
+
+-   Learn how to design and deliver Open Science workshops, and apply **basic didactic techniques** to diverse audiences;
+
+-   Apply **activation methods** in the classroom to foster motivation and attention;
+
+-   Develop skills to **advocate for Open Science**, to lead research groups and discussions around Open Science, and to analyse the potential challenges and issues around the implementation of open science practices;
+
+-   Design their **own Open Science workshop** on an Open Science topic of their choice by applying the newly acquired skills and present the concept to other participants
+
+After joining this track, you are strongly encouraged to deliver the workshop you designed with practical and logistical support of the Open Science Center.
+
+## Funding note
+
+The organisers of this summer school, LMU Open Science Center train-the-trainer program coordinator [Dr. Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html){target="_blank"} and LMU Open Science Center coordinator [Dr. Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html){target="_blank"}, are funded by the LMU Central Study Fund and the Volkswagen Foundation Pioneer Project grant. The University Library of LMU Munich provides in-kind support. Materials were also generated in collaboration with the LMU [Center for Leadership and People Management](https://www.lmu.de/psy/en/center-for-leadership-and-people-management/) and [PROFiL](https://www.lmu.de/profil/de/).
+
+![](img/OSC-LMU-UB.png){fig-alt="OSC, LMU and UB logos" fig-align="center" width="400"}
+![](img/profil-logo.png){fig-alt="Profil logo" fig-align="center" width="150"}
+![](img/clpm_logo.png){fig-alt="CLPM logo" fig-align="center" width="150"}

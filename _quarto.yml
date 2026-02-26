@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  twitter-card: 
+    title: "LMU Open Science Center Summer School 2026"
+    description: "programme and application process"
+    image: img/OSSS25_flyer.png
+    card-style: summary_large_image
+  search: false
+    
+  title: "LMU Open Science Center Summer School 2026"
+  site-url: https://lmu-osc.github.io/Open-Science-Summer-School-2026/ 
+  repo-url: https://github.com/lmu-osc/Open-Science-Summer-School-2026 
+  navbar:
+    left:
+      - href: Programme.qmd
+        text: "Programme"
+      - href: Lectures.qmd
+        text: "Public lectures"
+      - href: Track1_Workshops.qmd
+        text: "Track 1: Open Science training"
+      - href: Track2_Workshops.qmd
+        text: "Track 2: Instructor training"
+      - href: Join.qmd
+        text: "Join"
+    pinned: true
+    collapse: true
+  favicon: img/LMU-OSC_favicon.jpg
+
+margin-header: |
+  ![](/img/LMU-OSC_logo.jpg){width="175"}
+
+format:
+  html:
+    theme: 
+    - cosmo
+    - custom.scss
+    toc: true
+    css: styles.css
+ 
+
+editor: source
+
