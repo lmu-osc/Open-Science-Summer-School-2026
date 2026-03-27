@@ -11,23 +11,47 @@
 
 These workshops are for selected applicants of Track 2 only (see [Join](Join.qmd)).
 
-## Teaching Open Science - Didactics, tools and techniques
+## Teaching Open Science: Core didactic principles
 
-[Barbara Beege](https://www.profil.uni-muenchen.de/profil/personen/leitung/beege/index.html),
 [Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
+![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 09:00-10:30
+
+Are you interested in introducing your peers, students, or lab group to Open Science, or thinking about offering engaging workshops on the topic? Or are you simply interested in how to make your teaching better? This interactive, evidence-based workshop provides an overview of the core didactic principles to help you effectively teach Open Science to researchers and students. Participants will learn about the foundations of successful learning, Bloom's taxonomy, how to formulate learning goals and practice these skills in group-based activities. No prior teaching experience is required — just curiosity and a desire to apply these didactic skills in the context of Open Science.
 
 
-![](img/sarah-von-grebmer.png){width="100"} ![](img/barbara-beege.png){width="100"} Friday 19 September, 14:30-16:30
+## Concept planning for Open Science workshops (and courses)
+[Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
+![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 10:45-11:45
 
-Are you interested in introducing your peers, students, or lab group to Open Science, or thinking about offering engaging workshops on the topic? Or are you simply interested in how to make your teaching better? This interactive, evidence-based workshop combines core didactic principles with practical tools to help you effectively teach Open Science to researchers and students. Led by [PROFiL](https://www.profil.uni-muenchen.de/index.html) trainer [Barbara Beege](https://www.profil.uni-muenchen.de/profil/personen/leitung/beege/index.html), participants will learn about the foundations of successful learning, how to set learning goals, design engaging lessons, and engage audiences through a variety of activation methods. A special focus is placed on hands-on exercises to not only equip you with essential tools to plan, design, deliver, and adapt hands-on content on Open Science, but also to explore and adapt activation techniques that boost motivation and attention in classroom settings. No prior teaching experience is required — just curiosity and a desire to apply these didactic skills in the context of Open Science. At the end of this workshop, you will be able to:
+During this session, participants will learn the fundamentals of planning and designing engaging workshops or courses on Open Science, how to enhance the motivation to learn and actively engage during those workshops, how to activate your learner's prior knowledge about Open Science and how to structure an individual lesson on an Open Science topic to enhance the learning process. 
 
--   Explain key theoretical frameworks around learning and knowledge acquisition;
--   Formulate clear and measurable learning goals for sessions on open science topics;
--   Design course materials and learning activities tailored to teaching open science principles to diverse audiences, including students and researchers;
--   Select from different activation methods and apply them in practice;
--   Apply and adapt didactic tools and techniques to meet the needs of various learners, regardless of their prior knowledge or background in Open Science.
+## Creating a supportive learning environment
 
-The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/h8xb5" target="_blank">https://osf.io/</a>
+[Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
+![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 13:15-14:15
+
+The learning environment is a key element in any learning process. During this session, participant will learn how to create a supportive learning environment through (body) language, different engagement methods, setting interaction rules, through constructive and thought-through feedback and my fostering a growth mindset in your learners. 
+
+## Activating and motivating your audience
+
+[Sophie Renard](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
+![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 14:30-15:45
+
+During this session led by Sophie Renard from Profil, the organisation XX at LMU; a special focus is placed on  exploring and implementing activation techniques that boost motivation and attention in classroom and workshop settings. You will learn how to tailor your activation activities to your learning goals and your audience to meet the needs of various learners, regardless of their prior knowledge or background in Open Science.
+You will practise various activation tools in a group-based interactive setting while developing a feel for what is right for you as an instructor and what could be implemented in the Open Science context.
+
+
+**EDIT** The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/h8xb5" target="_blank">https://osf.io/</a>
+
+
+## Design your own Open Science workshop: Part I
+
+[Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html),
+[Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
+![](img/sara-lil-middleton.png){width="100"}
+![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 16:00-17:30
+
+Pooling all your skills, methods, techniques and tools from the previous workshops, in this session you will start designing your own workshop, lesson or course on an Open Science topic of your choice. Through guidance and feedback from the instructors as well as hands-on guidelines and templates, you are encouraged to create a first draft for your own workshop to teach after the summer school. 
 
 ## Leadership in Open Science
 
@@ -41,3 +65,16 @@ Are you keen on implementing Open Science and would like to learn more about the
 -   Develop the skills and confidence to lead, moderate, and advocate for open science initiatives, including workshops and lectures.
 
 The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/zqj4s" target="_blank">https://osf.io/</a>
+
+
+## Design your own Open Science workshop: Part II
+
+[Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html),
+[Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
+
+![](img/sara-lil-middleton.png){width="100"}
+![](img/sarah-von-grebmer.png){width="100"} Tuesday 15 September, 16:00-17:30
+
+Equipped with new skills about leadership, accessibility, in this session you will continue designing your workshop, lesson or course on Open Science from the previous day through feedback from the instructors and your peers. 
+At the end of this session, you will have a ready-to-go concept for your Open Science teaching activities after the summer school. 
+
