@@ -11,12 +11,12 @@
 
 These [workshops](#workshops) and [interactive sessions](#interactivesessions) are for selected applicants of Track 1 only (see [Join](Join.qmd)).
 
-# Workshops {#workshops}
+# Track 1 workshops {#workshops}
 
 ## Introduction to R
 
 [Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), [Edouard Bonneville](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/bonneville/index.html), [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html)\
-![](img/sara-lil-middleton.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} Monday 7 September, 14:30-17:30
+![](img/sara-lil-middleton.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} ![](img/edouard-bonneville.png){width="100"} Monday 7 September, 14:30-17:30
 
 This workshop introduces the fundamentals of the R programming language with a track for total novices and a track for researchers already familiar with R. Through hands-on exercises, you will learn how to navigate RStudio, import and manipulate data, and create basic visualizations. By the end of the session, participants will have the skills and confidence to use R for their own research projects.
 
@@ -78,7 +78,7 @@ The tutorials can be found at:
 
 ## Quarto
 
-[Pat Callahan](https://www.osc.uni-muenchen.de/members/individual_members/fellows/callahan/index.html), [Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
+[Pat Callahan](https://www.osc.uni-muenchen.de/members/individual_members/fellows/callahan/index.html), [Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
 ![](img/sarah-von-grebmer.png){width="100"} Thursday 10 September, 10:00-11:45
 
 Quarto makes transparent and reproducible data analysis simple and fun. In a nutshell, Quarto lets you mix text written in markdown with chunks of executable code written in, e.g., R or Python. You can use it for interactive notebooks, and export to a large number of formats including HTML, PDF/LaTeX, Microsoft Word or PowerPoint, or even interactive websites. In this workshop, we cover the fundamentals, including the markdown syntax, code chunks and inline code, and the output formats available. We also go over citations, cross-referencing, and templating, which ultimately allow you to write academic papers entirely in Quarto.
@@ -88,8 +88,7 @@ The tutorial for this workshop can be found here:
 
 ## Reproducible R environment and code publishing
 
-[Pat Callahan](https://www.osc.uni-muenchen.de/members/individual_members/fellows/callahan/index.html), [Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html)\
-
+[Pat Callahan](https://www.osc.uni-muenchen.de/members/individual_members/fellows/callahan/index.html), [Edouard Bonneville](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/bonneville/index.html), [Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html)\
 ![](img/reema-gupta.png){width="100"} Thursday 10 September, 13:15-16:15
 
 This session will wrap up all the computing skill workshops of this week by creating a minimal example of a reproducible executable manuscript containing analyses and results that can be made available upon submission of a manuscript.

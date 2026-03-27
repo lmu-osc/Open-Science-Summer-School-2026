@@ -11,6 +11,8 @@
 
 These workshops are for selected applicants of Track 2 only (see [Join](Join.qmd)).
 
+# Track 2 workshops {#workshops}
+
 ## Teaching Open Science: Core didactic principles
 
 [Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
@@ -47,7 +49,7 @@ You will practise various activation tools in a group-based interactive setting 
 ## Design your own Open Science workshop: Part I
 
 [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html),
-[Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
+[Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
 ![](img/sara-lil-middleton.png){width="100"}
 ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 16:00-17:30
 
@@ -71,9 +73,7 @@ The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/zqj4s
 
 [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html),
 [Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
-
-![](img/sara-lil-middleton.png){width="100"}
-![](img/sarah-von-grebmer.png){width="100"} Tuesday 15 September, 16:00-17:30
+![](img/sara-lil-middleton.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} Tuesday 15 September, 16:00-17:30
 
 Equipped with new skills about leadership, accessibility, in this session you will continue designing your workshop, lesson or course on Open Science from the previous day through feedback from the instructors and your peers. 
 At the end of this session, you will have a ready-to-go concept for your Open Science teaching activities after the summer school. 
