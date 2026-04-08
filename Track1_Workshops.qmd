@@ -88,7 +88,8 @@ The tutorial for this workshop can be found here:
 
 ## Reproducible R environment and code publishing
 
-[Pat Callahan](https://www.osc.uni-muenchen.de/members/individual_members/fellows/callahan/index.html), [Edouard Bonneville](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/bonneville/index.html), [Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html)\
+[Pat Callahan](https://www.osc.uni-muenchen.de/members/individual_members/fellows/callahan/index.html), [Florian Kohrt](https://www.lmu.de/psyedu/de/personen/kontaktseite/florian-kohrt-9c878316.html), [Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html)\
+![](img/florian-kohrt.png){width="100"}
 ![](img/reema-gupta.png){width="100"} Thursday 10 September, 13:15-16:15
 
 This session will wrap up all the computing skill workshops of this week by creating a minimal example of a reproducible executable manuscript containing analyses and results that can be made available upon submission of a manuscript.
