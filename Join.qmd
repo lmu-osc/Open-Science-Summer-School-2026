@@ -27,7 +27,7 @@ Selected applicants of Track 2 are expected to attend all sessions from Monday 1
 
 **Target audience**: early career researchers (e.g., PhD students, postdocs), research project leaders, university lecturers or research support staff interested in becoming Open Science instructors.\
 **Eligibility criteria**: Proof of acquired Open Science knowledge and skills (e.g. application for Track 1, certificate of attendance to previous Open Science summer school or equivalent training, link to open research resources such as a GitHub repository, FAIR dataset, or  preregistration).\
-**Selection criteria**: Clear motivation and a tentative plan for delivering an Open Science workshop. At equal scores, those with a more concrete plan for delivering an Open Science workshop and LMU members will be favored.\
+**Selection criteria**: Clear motivation and a tentative plan for delivering an Open Science workshop. Preference will also be given to applicants from the SyNErgy Cluster, ORIGIN cluster, SHARP consortium, the department of Psychology, the Faculty of Biology and the Faculty of Business Administration. At equal scores, those with a more concrete plan for delivering an Open Science workshop and LMU members will be favored.\
 **Certificate of attendance**: You will automatically receive a certificate of attendance following your participation in the summer school.\
 **Certificate of Open Science instructor**: After joining this track, you will have the opportunity to (co-)deliver the workshop on an Open Science topic of your choice you designed during Track 2. To obtain the Open Science instructor certificate, you are required to:
 
