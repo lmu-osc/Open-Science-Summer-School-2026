@@ -43,7 +43,7 @@ During this session led by [Sophie Renard](https://www.lmu.de/profil/de/profil-u
 You will practise various activation tools in a group-based interactive setting while developing a feel for what is right for you as a future open science instructor and what could be implemented in the open science context.
 
 
-**EDIT** The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/h8xb5" target="_blank">https://osf.io/</a>
+<!-- **EDIT** The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/h8xb5" target="_blank">https://osf.io/</a> -->
 
 
 ## Design your own Open Science workshop: Part I
@@ -65,7 +65,7 @@ Are you keen on implementing Open Science and would like to learn more about the
 -   Critically assess the principles and challenges of Open Science in academic practice and identify common barriers to implementing open research practices such as accessibility, diversity, and citation politics;
 -   Develop the skills and confidence to lead, moderate, and advocate for open science initiatives, including workshops and lectures.
 
-The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/zqj4s" target="_blank">https://osf.io/</a>
+<!-- EDIT The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/zqj4s" target="_blank">https://osf.io/</a> -->
 
 
 ## Challenges in navigating leadership
