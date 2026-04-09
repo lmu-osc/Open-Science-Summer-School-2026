@@ -1,1 +1,1 @@
-Website for the LMU Open Science Center Summer School on Open Research September 2025
+Website for the LMU Open Science Center Summer School on Open Research September 2026
