@@ -34,7 +34,7 @@ Appreciation of adequate data management mostly occurs very late, e.g., when loo
 The material for this workshop can be found here:
 <a href="https://lmu-osc.github.io/FAIR-Data-Management/" target="_blank">https://lmu-osc.github.io/FAIR-Data-Management/</a>
 
-**EDIT**The workshop slides can be found here: <a href="https://osf.io/x639j/files/qjtec/" target="_blank">https://osf.io/</a>
+<!-- **EDIT**The workshop slides can be found here: <a href="https://osf.io/x639j/files/qjtec/" target="_blank">https://osf.io/</a> -->
 
 ## Preregistration
 
@@ -43,7 +43,7 @@ The material for this workshop can be found here:
 
 In this workshop, we will review what detailed information preregistrations and registered reports should contain. We will also collectively discuss the benefits and disadvantages of embracing such practices, as well as possible fear and concerns, in a structured academic debate. Finally, we will look into how to preregister in practice on the Open Science Framework, and practice the level of precision needed in a preregistration by peer-reviewing snippets.
 
-**EDIT** The workshop slides can be found here: <a href="https://osf.io/x639j/files/8hykq" target="_blank">https://osf.io/</a>
+<!-- **EDIT** The workshop slides can be found here: <a href="https://osf.io/x639j/files/8hykq" target="_blank">https://osf.io/</a> -->
 
 ## Simulations of data and data analyses in R
 
