@@ -15,7 +15,7 @@ website:
   repo-url: https://github.com/lmu-osc/Open-Science-Summer-School-2026 
   navbar:
     left:
-      - href: Lectures.qmd
+      - href: Public_lectures.qmd
         text: "Public lectures"
       - href: Track1_Workshops.qmd
         text: "Track 1: Open Science training"
