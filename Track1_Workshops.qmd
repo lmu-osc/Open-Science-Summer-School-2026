@@ -16,7 +16,7 @@ These [workshops](#workshops) and [interactive sessions](#interactivesessions) a
 ## Introduction to R
 
 [Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html), [Edouard Bonneville](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/bonneville/index.html), [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html)\
-![](img/sara-lil-middleton.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} ![](img/edouard-bonneville.png){width="100"} Monday 7 September, 14:30-17:30
+![](img/sara-lil-middleton.png){width="100"}  ![](img/edouard-bonneville.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} Monday 7 September, 14:30-17:30
 
 This workshop introduces the fundamentals of the R programming language with a track for total novices and a track for researchers already familiar with R. Through hands-on exercises, you will learn how to navigate RStudio, import and manipulate data, and create basic visualizations. By the end of the session, participants will have the skills and confidence to use R for their own research projects.
 
@@ -60,7 +60,7 @@ We will follow this self-paced tutorial:
 [Laura Meier](https://www.ub.uni-muenchen.de/ueber-die-ub/kontakt/personen/meier-l/index.html), [Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html), [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html)\
 ![](img/sara-lil-middleton.png){width="100"} ![](img/reema-gupta.png){width="100"} ![](img/laura-meier.png){width="100"} Wednesday 9 September, 13:15-14:15
 
-The planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the RDM information team of the LMU Munich University Library, will present what to look for when creating a data management plan and how web-based tools such as the Research Data Management Organiser (RDMO) can be used to make research data management easier.
+The planning of a research project and the management of one’s own data bring many advantages in everyday research. Laura Meier, from the [RDM information team of the LMU Munich University Library](https://www.ub.lmu.de/en/open-access-publishing/research-data/), will present what to look for when creating a data management plan and how web-based tools such as the [Research Data Management Organiser ](https://rdmo.ub.lmu.de/) can be used to make research data management easier.
 
 The material for this workshop can be found here: 
 <a href="https://lmu-osc.github.io/FAIR-Data-Management/dmp.html" target="_blank">https://lmu-osc.github.io/FAIR-Data-Management/dmp.html</a>
@@ -89,8 +89,8 @@ The tutorial for this workshop can be found here:
 ## Reproducible R environment and code publishing
 
 [Pat Callahan](https://www.osc.uni-muenchen.de/members/individual_members/fellows/callahan/index.html), [Florian Kohrt](https://www.lmu.de/psyedu/de/personen/kontaktseite/florian-kohrt-9c878316.html), [Reema Gupta](https://www.osc.uni-muenchen.de/members/individual_members/fellows/gupta/index.html)\
-![](img/florian-kohrt.png){width="100"}
-![](img/reema-gupta.png){width="100"} Thursday 10 September, 13:15-16:15
+![](img/reema-gupta.png){width="100"} ![](img/florian-kohrt.png){width="100"}
+ Thursday 10 September, 13:15-16:15
 
 This session will wrap up all the computing skill workshops of this week by creating a minimal example of a reproducible executable manuscript containing analyses and results that can be made available upon submission of a manuscript.
 
