@@ -4,7 +4,7 @@ project:
 website:
   twitter-card: 
     title: "LMU OSSS26"
-    description: "programme and application process"
+    description: "program and application process"
     image: img/OSSS25_flyer.png
     card-style: summary_large_image
   search: false
@@ -14,17 +14,17 @@ website:
   repo-url: https://github.com/lmu-osc/Open-Science-Summer-School-2026 
   navbar:
     left:
-      - href: Public_lectures.qmd
+      - href: public_lectures.qmd
         text: "Public lectures"
-      - href: Track1_Workshops.qmd
+      - href: track1_workshops.qmd
         text: "Track 1: Open Science training"
-      - href: Track1_Programme.qmd
-        text: "Track 1: Programme"
-      - href: Track2_Workshops.qmd
+      - href: track1_program.qmd
+        text: "Track 1: Program"
+      - href: track2_workshops.qmd
         text: "Track 2: Instructor training"
-      - href: Track2_Programme.qmd
-        text: "Track 2: Programme"
-      - href: Join.qmd
+      - href: track2_program.qmd
+        text: "Track 2: Program"
+      - href: join.qmd
         text: "Join"
     pinned: true
     collapse: true

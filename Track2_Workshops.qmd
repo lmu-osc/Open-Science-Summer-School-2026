@@ -9,9 +9,9 @@
 </head
 ```
 
-These workshops are for selected applicants of Track 2 only (see [Join](Join.qmd)).
+These [workshops](#track2workshops) are for selected applicants of Track 2 only (see [Join](join.qmd)).
 
-# Track 2 workshops {#workshops}
+# Track 2 workshops {#track2workshops}
 
 ## Teaching Open Science: Core didactic principles
 
@@ -37,10 +37,10 @@ The learning environment is a key element in any learning process. During this s
 ## Activating and motivating your audience
 
 [Sophie Renard](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html)\
-![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 14:30-15:45
+![](img/sophie-renard.png){width="100"} Monday 14 September, 14:30-15:45
 
 During this session led by [Sophie Renard](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html) from [PROFiL](https://www.lmu.de/profil/de/), the focus is placed on exploring and implementing activation techniques to boost motivation, engagement and attention in classroom and workshop settings. You will learn how to tailor your activation activities to your learning goals and your audience to meet the needs of various learners, regardless of their prior knowledge or background in open science.
-You will practise various activation tools in a group-based interactive setting while developing a feel for what is right for you as a (future) open science instructor and what can be effectively applied in the open science context.
+You will practice various activation tools in a group-based interactive setting while developing a feel for what is right for you as a (future) open science instructor and what can be effectively applied in the open science context.
 
 
 <!-- **EDIT** The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/h8xb5" target="_blank">https://osf.io/</a> -->

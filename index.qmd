@@ -10,7 +10,7 @@ This year's iteration has two tracks to provide participants with two complement
 
 ## Track 1: Open Science knowledge and skills
 
-In this track, early career researchers who are Open Science novices learn to make their research more **transparent**, **reproducible** and **credible** in the eyes of their peers, the public, and funding agencies. This track consists of [public lectures](Lectures.qmd) accessible to anyone as well as hands-on practical [workshops](Track1_Workshops.qmd) for selected applicants. It extends from **09:00** on **Monday 07.09.2026** to **16:00** on **Friday 11.09.2026**. See the [programme of Track 1](Track1_Programme.qmd) for more details. 
+In this track, early career researchers who are Open Science novices learn to make their research more **transparent**, **reproducible** and **credible** in the eyes of their peers, the public, and funding agencies. This track consists of [public lectures](public_lectures.qmd) accessible to anyone as well as hands-on practical [workshops](track1_workshops.qmd) for selected applicants. It extends from **09:00** on **Monday 07.09.2026** to **16:00** on **Friday 11.09.2026**. See the [program of Track 1](track1_program.qmd) for more details. 
 
 Participants of this track learn how to:
 
@@ -22,7 +22,7 @@ Participants of this track learn how to:
 
 ## Track 2: Open Science instructor training
 
-In this track, early career researchers or research support staff interested in becoming Open Science instructors develop essential **pedagogical skills to promote Open Science through teaching** - no prior teaching experience is required. This track consists of hands-on [workshops](Track2_Workshops) as well as guided sessions to design your own workshop on an open science topic of your choice. Track 2 takes place from **09:00** on **Monday 14.09.2026** to **17:00** on **Tuesday 15.09.2026**. See  the [programme of Track 2](Track2_Programme.qmd) for more details.
+In this track, early career researchers or research support staff interested in becoming Open Science instructors develop essential **pedagogical skills to promote Open Science through teaching** - no prior teaching experience is required. This track consists of hands-on [workshops](track2_workshops) as well as guided sessions to design your own workshop on an open science topic of your choice. Track 2 takes place from **09:00** on **Monday 14.09.2026** to **17:00** on **Tuesday 15.09.2026**. See  the [program of Track 2](track2_program.qmd) for more details.
 
 Participants of this track will:
 
@@ -40,8 +40,9 @@ After joining this track, participants are strongly encouraged to **deliver the 
 
 ## Funding & Partners
 
-The organisers of this summer school, LMU Open Science Center train-the-trainer program coordinator [Dr. Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html){target="_blank"} and LMU Open Science Center coordinator [Dr. Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html){target="_blank"}, are funded by the LMU Central Study Fund and the Volkswagen Foundation Pioneer Project grant. The University Library of LMU Munich provides in-kind support. Materials were also generated in collaboration with the [LMU Center for Leadership and People Management](https://www.lmu.de/psy/en/center-for-leadership-and-people-management/) and [PROFiL](https://www.lmu.de/profil/de/) - "Professionell in der Lehre".
+The organizers of this summer school, LMU Open Science Center train-the-trainer program coordinator [Dr. Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html){target="_blank"} and LMU Open Science Center coordinator [Dr. Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html){target="_blank"}, are funded by the LMU Central Study Fund and the Volkswagen Foundation Pioneer Project grant. The University Library of LMU Munich provides in-kind support. Materials were also generated in collaboration with the [PROFiL](https://www.lmu.de/profil/de/) - "Professionell in der Lehre", and [FORRT](https://forrt.org/), the Framework for Open and Reproducible Research Training.
 
 ![](img/OSC-LMU-UB.png){fig-alt="OSC, LMU and UB logos" fig-align="center" width="400"}
 ![](img/profil-logo.png){fig-alt="Profil logo" fig-align="center" width="150"}
-![](img/clpm_logo.png){fig-alt="CLPM logo" fig-align="center" width="150"}
+![](img/forrt-logo.png){fig-alt="FORRT logo" fig-align="center" width="150"}
+

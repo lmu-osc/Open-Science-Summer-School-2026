@@ -9,11 +9,11 @@
 </head
 ```
 
-All lectures are opened for public registration (see [Join](Join.qmd)).
+All lectures are opened for public registration (see [Join](join.qmd)).
 
 ## Alexander Wuttke: Replicability crisis
 
-![](img/sarah-von-grebmer.png){width="100"} Monday 7 September, 09:45-10:45
+![](img/alexander-wuttke.png){width="100"} Monday 7 September, 09:45-10:45
 
 Prof. Dr. [Alexander Wuttke](https://www.gsi.uni-muenchen.de/personen/professoren/wuttke/index.html), Professor of Digitalisation and Political Behaviour at the LMU, will set the scene and present an overview of the replicability crisis across fields, and an introduction to open research initiatives.
 
@@ -73,7 +73,7 @@ Dr. [Tim Errington](https://osf.io/alh38/), Senior Director of Research at Cente
 
 ## Danny Maupin: Open Data and AI
 
-![](img/sarah-von-grebmer.png){width="100"} Friday 11 September, 09:00-10:00
+![](img/danny-maupin.png){width="100"} Friday 11 September, 09:00-10:00
 
 Abstract TBD. <!-- EDIT -->
 

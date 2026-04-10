@@ -9,9 +9,9 @@
 </head
 ```
 
-These [workshops](#workshops) and [interactive sessions](#interactivesessions) are for selected applicants of Track 1 only (see [Join](Join.qmd)).
+These [workshops](#track1workshops) and [interactive sessions](#interactivesessions) are for selected applicants of Track 1 only (see [Join](join.qmd)).
 
-# Track 1 workshops {#workshops}
+# Track 1 workshops {#track1workshops}
 
 ## Introduction to R
 
