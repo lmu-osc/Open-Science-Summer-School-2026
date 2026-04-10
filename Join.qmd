@@ -2,7 +2,7 @@
 
 You can apply for Track 1, Track 2, or both, by filling out the application form before **6 July 2026, 12:00 noon CEST.** Applicants will be notified of the results of their application by July 14. If selected or wait-listed, you will have to confirm your spot by July 30.
 
-The in-person part of the school will take place in Philologicum Library, **Ludwigstraße 25, 80539 München, Germany**. The online part will be on **Zoom**. We are unable to provide travel grants.
+Applicants can choose to attend in-person at the Philologicum Library, **Ludwigstraße 25, 80539 München, Germany**, or online, on **Zoom**.
 
 ::: {.callout-important}
 Before applying, please carefully read the selection and eligibility criteria.
@@ -12,10 +12,10 @@ Before applying, please carefully read the selection and eligibility criteria.
 
 Selected applicants of Track 1 are expected to attend all sessions from Monday 07.09.2026 9:00 to Friday 11.09.2026 16:00.
 
-**Apply here:** [**https://surveys.osc.lmu.de/OSSS26-application**](https://surveys.osc.lmu.de/OSSS26-application){target="_blank"}
+**Apply for Track 1 here:** [**https://surveys.osc.lmu.de/OSSS26-application**](https://surveys.osc.lmu.de/OSSS26-application){target="_blank"}
 
 **Target audience**: early career researchers of any scientific disciplines (e.g. Medical sciences, Social Sciences, Life Sciences) who are Open Science novices (e.g., advanced Masters students, PhD students, postdocs).\
-**Selection criteria**: Clear motivations and ideas about where to integrate these news skills in your own research. At equal scores, LMU members or upcoming LMU members will be favored over external students and researchers. Preference will also be given to applicants from the SyNErgy Cluster, ORIGIN cluster, SHARP consortium, the department of Psychology, the Faculty of Biology and the Faculty of Business Administration.\
+**Selection criteria**: Clear motivations and ideas about where to integrate these news skills in your own research. At equal scores, LMU members or upcoming LMU members will be favored over external students and researchers. Preference will also be given to applicants from funding institutional members of the LMU Open Science Center, namely: SyNergy Cluster of Excellence, ORIGIN cluster of Excellence, SHARP consortium, the department of Psychology, the Faculty of Biology, and the Faculty of Business Administration.\
 **Certificate of attendance**: You will automatically receive a certificate of attendance following your participation in the summer school.\
 **Note**: In previous years, we received over 100 applications for 40 seats in this track. Please keep our selection criteria in mind when writing your application. 
 
@@ -23,28 +23,28 @@ Selected applicants of Track 1 are expected to attend all sessions from Monday 0
 
 Selected applicants of Track 2 are expected to attend all sessions from Monday 14.09.2026 9:00 to Tuesday 15.09.2026 17:00.
 
-**Apply here:** [**https://surveys.osc.lmu.de/OSSS26-application**](https://surveys.osc.lmu.de/OSSS26-application){target="_blank"}
+**Apply for Track 2 here:** [**https://surveys.osc.lmu.de/OSSS26-application**](https://surveys.osc.lmu.de/OSSS26-application){target="_blank"}
 
 **Target audience**: early career researchers (e.g., PhD students, postdocs), research project leaders, university lecturers or research support staff interested in becoming Open Science instructors.\
 **Eligibility criteria**: Proof of acquired Open Science knowledge and skills (e.g. application for Track 1, certificate of attendance to previous Open Science summer school or equivalent training, link to open research resources such as a GitHub repository, FAIR dataset, or  preregistration).\
-**Selection criteria**: Clear motivation and a tentative plan for delivering an Open Science workshop. Preference will also be given to applicants from the SyNErgy Cluster, ORIGIN cluster, SHARP consortium, the department of Psychology, the Faculty of Biology and the Faculty of Business Administration. At equal scores, those with a more concrete plan for delivering an Open Science workshop and LMU members will be favored.\
+**Selection criteria**: Clear motivation and a concrete tentative plan for delivering an Open Science workshop or course. At equal scores, LMU members or upcoming LMU members will be favored over external students and researchers. Preference will also be given to applicants from funding institutional members of the LMU Open Science Center, namely: SyNergy Cluster of Excellence, ORIGIN cluster of Excellence, SHARP consortium, the department of Psychology, the Faculty of Biology, and the Faculty of Business Administration.\
 **Certificate of attendance**: You will automatically receive a certificate of attendance following your participation in the summer school.\
-**Certificate of Open Science instructor**: After joining this track, you will have the opportunity to (co-)deliver the workshop on an Open Science topic of your choice you designed during Track 2. To obtain the Open Science instructor certificate, you are required to:
+**Certificate of Open Science instructor**: After joining this track, you will have the opportunity to (co-)deliver the workshop on an Open Science topic of your choice you designed during the two-day instructor training. To obtain the Open Science instructor certificate, you are required to:
 
-- **Attend** one **virtual follow-up meeting** on either **Wednesday, 7.10.2026** or **Thursday, 15.10.2026** at 12:00-13:00 to discuss practicalities about delivering your workshop/seminar/planned lesson with other participants and the LMU OSC Team.
-- **Deliver** the  workshop, seminar, or lesson planned during Track 2 **before March 2027**. The LMU Open Science Center will support you during the planning, preparation and delivery of the workshop with hands-on feedback and practical tips.
-- **Fill out** the follow-up **survey** after the summer school and after delivering the workshop to capture your experience in the preparation and delivery process and reflect on your teaching skills.
+- **Attend** one **virtual follow-up meeting** on either **Wednesday, 07.10.2026** or **Thursday, 15.10.2026** at 12:00-13:00 to discuss practicalities about delivering your workshop/seminar/planned lesson with other participants and the LMU OSC Team.
+- **Deliver** a  workshop, seminar, or lesson **before March 2027**. The LMU Open Science Center will support you during the planning, preparation and delivery of the workshop with hands-on feedback and practical tips.
+- **Fill out** the follow-up **surveys** after the summer school and after delivering the workshop to capture your experience in the preparation and delivery process and reflect on your teaching skills.
 
 
 # Join one or several of the public lectures (online)
 
 ::: {.callout-note}
-The public lectures are part of Track 1. If you applied for Track 1, you do not need to separately register for the public lectures. Registering for one or more public lectures does **not** mean you applied for Track 1. 
+If you applied for Track 1, you do not need to separately register for the public lectures. Registering for one or more public lectures does **not** give you access to the workshops for selected applicants of any Track; for this you need to apply above. 
 :::
 
 Anyone can register at any time before the end of the summer school to attend one, multiple, or all public lectures online.
 
-**Register here:** [**https://www.pretix.osc.lmu.de/lmu-osc/OSSS26/** ](https://www.pretix.osc.lmu.de/lmu-osc/OSSS26/){target="_blank"}
+**Register for the public lectures here:** [**https://www.pretix.osc.lmu.de/lmu-osc/OSSS26/** ](https://www.pretix.osc.lmu.de/lmu-osc/OSSS26/){target="_blank"}
 
 By registering, you will get a confirmation email with a Zoom Webinar link. You can request to receive a certificate of attendance if you attend all eight lectures while signed-in to Zoom.
 
