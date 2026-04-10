@@ -39,10 +39,7 @@ Dr. [Reema Gupta](https://www.gsn.uni-muenchen.de/people/students/reema-gupta/in
 
 ![](img/richard-mcelreath.png){width="100"} Wednesday 9 September, 9:00-10:00
 
-Taking inspiration from guerilla warfare, I will introduce a framework for managing scientific research that addresses the complexity of research while advancing goals of transparency and reliability. Real science is complex, and there is no single scientific method. It is a chaotic network of theories, data, models, graphs, comparisons, summaries, and narratives. A flaw in any part can ruin everything. How can small teams of researchers challenge this complexity and emerge victorious? More statistical training is not enough. More resources is not enough. Lawrence of Arabia once said, "Guerrilla warfare is more intellectual than a bayonet charge." And this is how we too will proceed. Instead of confronting the complexity directly, with more money and more people and more data and more meta-analyses, we must develop a SCIENTIFIC WORKFLOW that subdivides, analyzes, and transparently justifies our individual research projects. The tools to do this already exist, and individual researchers can become scientific guerillas today to improve their chances of victory.
-
-Prof. Dr. [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/), Director of the Department of Human Behavior, Ecology, and Culture at the Max Planck Institute for Evolutionary Anthropology, Leipzig, will 
-ask how *ADDD.*
+Prof. Dr. [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/), Director of the Department of Human Behavior, Ecology, and Culture at the Max Planck Institute for Evolutionary Anthropology, Leipzig, will take inspiration from guerilla warfare, and introduce a framework for managing scientific research that addresses the complexity of research while advancing goals of transparency and reliability. Real science is complex, and there is no single scientific method. It is a chaotic network of theories, data, models, graphs, comparisons, summaries, and narratives. A flaw in any part can ruin everything. How can small teams of researchers challenge this complexity and emerge victorious? More statistical training is not enough. More resources is not enough. Lawrence of Arabia once said, "Guerrilla warfare is more intellectual than a bayonet charge." And this is how we too will proceed. Instead of confronting the complexity directly, with more money and more people and more data and more meta-analyses, we must develop a SCIENTIFIC WORKFLOW that subdivides, analyzes, and transparently justifies our individual research projects. The tools to do this already exist, and individual researchers can become scientific guerillas today to improve their chances of victory.
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/euxn7) and [recording](https://osf.io/x639j/files/tp869) -->
 
@@ -74,12 +71,12 @@ Dr. [Tim Errington](https://osf.io/alh38/), Senior Director of Research at Cente
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/5m9j8) and [recording](https://osf.io/x639j/files/v8dqb) -->
 
 
-## Danny Maupin: EDIT Open Data and AI
+## Danny Maupin: Open Data and AI
 
 ![](img/sarah-von-grebmer.png){width="100"} Friday 11 September, 09:00-10:00
 
-Abstract TBD. 
+Abstract TBD. <!-- EDIT -->
 
-[Danny Maupin](https://www.surrey.ac.uk/people/danny-maupin) is a Research Fellow at the University of Surrey, whose work focuses on XXXX. 
+[Danny Maupin](https://www.surrey.ac.uk/people/danny-maupin) is a Research Fellow at the University of Surrey, whose work focuses on the effect of AI on research integrity. 
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/5m9j8) and [recording](https://osf.io/x639j/files/v8dqb) -->
