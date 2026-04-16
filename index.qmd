@@ -4,7 +4,7 @@ title: "LMU Open Science Summer School 2026"
 
 ![](img/this_could_be_you.png){width=60% alt="photo of the philologicum library building, with a long middle part with a glass wall flancked by stone building parts. In front of the building, there is a profile outline of an anonymous group of people, one of them holding a laptop facing us with other people on the screen. An arrow points to the group of people and laptop, labelled 'this could be you!'" fig-align="center"}
 
-The [LMU Open Science Center](https://www.osc.uni-muenchen.de/index.html){target="_blank"} organises its 5^th^ **hybrid summer school**. Participants can choose to attend in-person at the Philologicum Library, **Ludwigstraße 25, 80539 München, Germany**, or online, on **Zoom**.
+The [LMU Open Science Center](https://www.osc.lmu.de/){target="_blank"} organizes its 5^th^ **hybrid summer school**. Participants can choose to attend in-person at the Philologicum Library, **Ludwigstraße 25, 80539 München, Germany**, or online, on **Zoom**.
 
 This year's iteration has two tracks to provide participants with two complementary sets of skills.
 
@@ -40,7 +40,7 @@ After joining this track, participants are strongly encouraged to **deliver the 
 
 ## Funding & Partners
 
-The organizers of this summer school, LMU Open Science Center train-the-trainer program coordinator [Dr. Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html){target="_blank"} and LMU Open Science Center coordinator [Dr. Malika Ihle](https://www.osc.lmu.de/people/people/malika-ihle.html){target="_blank"}, are funded by the LMU Central Study Fund and the Volkswagen Foundation Pioneer Project grant. The University Library of LMU Munich provides in-kind support. Materials were also generated in collaboration with the [PROFiL](https://www.lmu.de/profil/de/) - "Professionell in der Lehre", and [FORRT](https://forrt.org/), the Framework for Open and Reproducible Research Training.
+The organizers of this summer school, LMU Open Science Center train-the-trainer program coordinator [Dr. Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html){target="_blank"} and LMU Open Science Center coordinator [Dr. Malika Ihle](https://www.osc.lmu.de/people/people/malika-ihle.html){target="_blank"}, are funded by the LMU Central Study Fund and the Volkswagen Foundation Pioneer Project grant. The [University Library of LMU Munich](https://www.ub.lmu.de/de/) provides in-kind support. Materials were also generated in collaboration with the [PROFiL](https://www.lmu.de/profil/de/) - "Professionell in der Lehre", and [FORRT](https://forrt.org/), the Framework for Open and Reproducible Research Training.
 
 ![](img/OSC-LMU-UB.png){fig-alt="OSC, LMU and UB logos" fig-align="center" width="400"}
 ![](img/profil-logo.png){fig-alt="Profil logo" fig-align="center" width="150"}

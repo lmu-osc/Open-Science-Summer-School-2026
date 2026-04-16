@@ -15,8 +15,6 @@ These [workshops](#track2workshops) are for selected applicants of Track 2 only 
 
 ## Teaching Open Science: Core didactic principles
 
-
-
 [Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
 ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 09:00-10:30
 
