@@ -23,7 +23,7 @@ Prof. Dr. [Alexander Wuttke](https://www.gsi.uni-muenchen.de/personen/professore
 
 ![](img/malika-ihle.png){width="100"} Monday 7 September, 11:00-11:45
 
-Dr. [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.html), LMU Open Science Center coordinator, will give an overview of open research practices and will introduce the workshops of this summer school. She will argue that to make your research the most credible and the most likely to replicate, you can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of your workflow.
+Dr. [Malika Ihle](https://www.osc.lmu.de/people/people/malika-ihle.html), LMU Open Science Center coordinator, will give an overview of open research practices and will introduce the workshops of this summer school. She will argue that to make your research the most credible and the most likely to replicate, you can engage with preregistration, to increase the reliability of the research, and with a finite set of computing tools, to increase the reproducibility of your workflow.
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/a62xz) and [recording](https://osf.io/x639j/files/75j9y) -->
 
@@ -31,7 +31,7 @@ Dr. [Malika Ihle](https://www.osc.uni-muenchen.de/about_us/coordinator/index.htm
 
 ![](img/reema-gupta.png){width="100"} Tuesday 8 September, 9:00-09:45\
 
-Dr. [Reema Gupta](https://www.gsn.uni-muenchen.de/people/students/reema-gupta/index.html) from the LMU Open Science Center will explain why we should share data and the fundamentals of data sharing practicalities.
+Dr. [Reema Gupta](https://www.osc.lmu.de/people/people/reema-gupta.html) from the LMU Open Science Center will explain why we should share data and the fundamentals of data sharing practicalities.
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/m3wrf) and [recording](https://osf.io/x639j/files/68cqh) -->
 
@@ -47,7 +47,7 @@ Prof. Dr. [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelr
 
 ![](img/sarah-von-grebmer.png){width="100"} Wednesday 9 September, 10:15-11:45
 
-Dr. [Sarah von Grebmer](https://www.lmu.de/psy/de/personen/kontaktseite/sarah-von-grebmer-zu-wolfsthurn-cb1fec68.html) will explain the different shades of Open Access (e.g. green, gold, diamond) and their advantages, and show what different ways there are to make your own publications freely accessible.
+Dr. [Sarah von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html) will explain the different shades of Open Access (e.g. green, gold, diamond) and their advantages, and show what different ways there are to make your own publications freely accessible.
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/c2mrb) and [recording](https://osf.io/x639j/files/5rsxb) -->
 
