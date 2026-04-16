@@ -48,10 +48,10 @@ You will practice various activation tools in a group-based interactive setting 
 
 ## Design your own Open Science workshop: Part I
 
-[Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html),
-[Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
-![](img/sarah-von-grebmer.png){width="100"}
-![](img/sara-lil-middleton.png){width="100"} Monday 14 September, 16:00-17:30
+[Sarah von Grebmer zu Wolfsthurn](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html),
+[Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html)\
+
+![](img/sara-lil-middleton.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 16:00-17:30
 
 Pooling all your skills, methods, techniques and tools from the previous workshops, in this session you will start designing your own workshop, lesson or course on an open science topic of your choice. Through guidance and feedback from the instructors as well as hands-on guidelines and ready-to-use templates, you create a first draft for your own workshop to teach after the summer school. 
 
@@ -60,10 +60,7 @@ Pooling all your skills, methods, techniques and tools from the previous worksho
 [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html)\
 ![](img/sara-lil-middleton.png){width="100"} Tuesday 15 September, 09:00-10:30
 
-Are you keen on implementing Open Science and would like to learn more about the surrounding issues and potential challenges that come with it? Do you want to be prepared to be an advocate for something that is currently still “outside the norm” and sometimes met with skepticism? In this workshop led by [Franziska Schrade](https://www.lmu.de/psy/de/personen/kontaktseite/franziska-schrade-36160dbf.html) from the LMU [Center for Leadership and People Management](https://www.lmu.de/psy/de/center-for-leadership-and-people-management/), we will interactively discuss issues connected to Open Science and challenges around its implementation. At the end of this workshop, you will be able to:
-
--   Critically assess the principles and challenges of Open Science in academic practice and identify common barriers to implementing open research practices such as accessibility, diversity, and citation politics;
--   Develop the skills and confidence to lead, moderate, and advocate for open science initiatives, including workshops and lectures.
+Abstract tba.
 
 <!-- EDIT The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/zqj4s" target="_blank">https://osf.io/</a> -->
 
@@ -87,7 +84,7 @@ Abstract tba.
 
 [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html),
 [Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
-![](img/sara-lil-middleton.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} Tuesday 15 September, 14:15-15:45
+![](img/sarah-von-grebmer.png){width="100"} ![](img/sara-lil-middleton.png){width="100"} Tuesday 15 September, 14:15-15:45
 
 Equipped with new skills about leadership, accessibility, and cultural awareness, in this session you will continue designing your own workshop, lesson or course on open science from the previous day with guidance from the instructors. At the end of this session, you will have developed a complete teaching plan to deliver your teaching to your selected target audience in the months following the summer school, and with the support from the LMU Open Science Center. 
 
@@ -95,7 +92,7 @@ Equipped with new skills about leadership, accessibility, and cultural awareness
 
 [Sara Lil Middleton](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/lil/index.html),
 [Sarah von Grebmer](https://www.osc.uni-muenchen.de/members/individual_members/lmu-members/wolfsthurn/index.html)\
-![](img/sara-lil-middleton.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} Tuesday 15 September, 16:00-17:00
+![](img/sarah-von-grebmer.png){width="100"} ![](img/sara-lil-middleton.png){width="100"} Tuesday 15 September, 16:00-17:00
 
 In this session, you will present your teaching plan to your peers and receive feedback from them and the OSC Team. During this session, you are also encouraged to clarify any practical issues, questions or concerns regarding the delivery of your designed workshops or lessons following the summer school.  
 
