@@ -50,7 +50,6 @@ You will practice various activation tools in a group-based interactive setting 
 
 [Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html),
 [Sara Lil Middleton](https://www.osc.lmu.de/people/people/sara-lil-middleton.html)\
-
 ![](img/sara-lil-middleton.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 16:00-17:30
 
 Pooling all your skills, methods, techniques and tools from the previous workshops, in this session you will start designing your own workshop, lesson or course on an open science topic of your choice. Through guidance and feedback from the instructors as well as hands-on guidelines and ready-to-use templates, you create a first draft for your own workshop to teach after the summer school. 
