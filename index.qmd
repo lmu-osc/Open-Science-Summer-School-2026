@@ -10,7 +10,7 @@ This year's iteration has two tracks to provide participants with two complement
 
 ## Track 1: Open Science knowledge and skills
 
-In this track, early career researchers who are Open Science novices learn to make their research more **transparent**, **reproducible** and **credible** in the eyes of their peers, the public, and funding agencies. This track consists of [public lectures](public_lectures.qmd) accessible to anyone as well as hands-on practical [workshops](track1_workshops.qmd) for selected applicants. It extends from **09:00** on **Monday 07.09.2026** to **16:00** (CEST) on **Friday 11.09.2026**. See the [program of Track 1](track1_program.qmd) for more details. 
+In this track, early career researchers who are Open Science novices learn to make their research more **transparent**, **reproducible** and **credible** in the eyes of their peers, the public, and funding agencies. This track consists of [public lectures](public-lectures.qmd) accessible to anyone as well as hands-on practical [workshops](track1-workshops.qmd) for selected applicants. It extends from **09:00** on **Monday 07.09.2026** to **16:00** (CEST) on **Friday 11.09.2026**. See the [program of Track 1](track1-program.qmd) for more details. 
 
 Participants of this track learn how to:
 
@@ -22,7 +22,7 @@ Participants of this track learn how to:
 
 ## Track 2: Open Science instructor training
 
-In this track, early career researchers or research support staff interested in becoming Open Science instructors develop essential **pedagogical skills to promote Open Science through teaching** - no prior teaching experience is required. This track consists of hands-on [workshops](track2_workshops) as well as guided sessions to design your own workshop on an open science topic of your choice. Track 2 takes place from **09:00** on **Monday 14.09.2026** to **17:00** (CEST) on **Tuesday 15.09.2026**. See the [program of Track 2](track2_program.qmd) for more details.
+In this track, early career researchers or research support staff interested in becoming Open Science instructors develop essential **pedagogical skills to promote Open Science through teaching** - no prior teaching experience is required. This track consists of hands-on [workshops](track2-workshops.qmd) as well as guided sessions to design your own workshop on an open science topic of your choice. Track 2 takes place from **09:00** on **Monday 14.09.2026** to **17:00** (CEST) on **Tuesday 15.09.2026**. See the [program of Track 2](track2-program.qmd) for more details.
 
 Participants of this track will:
 
