@@ -35,6 +35,8 @@ margin-header: |
 
 format:
   html:
+    include-in-header:
+      - file: matomo-analytics.html
     theme: 
     - cosmo
     - custom.scss
