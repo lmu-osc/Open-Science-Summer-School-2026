@@ -36,7 +36,8 @@ Participants of this track will:
 
 -   **Design their own workshop** on an open science topic of their choice by applying the newly acquired skills and present the concept to other participants for future delivery
 
-After joining this track, participants are strongly encouraged to **(co-)deliver the workshop** they designed with practical and logistical support from the LMU Open Science Center.
+After joining this track, participants are strongly encouraged to **(co-)deliver the workshop** they designed with practical and logistical support from the LMU Open Science Center (if needed) to **become a certified Open Science instructor**, see [Join](join.qmd) for more information.
+
 
 ## Funding & Partners
 
