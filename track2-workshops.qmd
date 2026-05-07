@@ -20,6 +20,7 @@ These [workshops](#track2workshops) are for selected applicants of Track 2 only 
 
 Are you interested in introducing your peers, students, or lab group to open research, or thinking about offering engaging workshops on the topic? Or are you simply interested in how to make your teaching on open research topics better? This interactive, evidence-based workshop provides an overview of the core didactic principles to help you effectively teach open research to researchers and students. You will learn about the foundations of successful learning, Bloom's taxonomy, how to formulate learning goals and practice these skills in group-based activities. No prior teaching experience is required — just curiosity and a desire to apply these didactic skills in the context of open research.
 
+<!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
 
 ## Concept planning for Open Science workshops (and courses)
 [Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html)\
@@ -27,12 +28,16 @@ Are you interested in introducing your peers, students, or lab group to open res
 
 During this session, you will learn the fundamentals of planning and designing engaging workshops or courses on open science, how to enhance the motivation to learn and actively engage learners during, how to activate your learner's prior knowledge about open science and how to structure an individual lesson on an open science topic to enhance the learning process. 
 
+<!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
+
 ## Creating a supportive learning environment
 
 [Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html)\
 ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 13:15-14:15
 
 The learning environment is a key element in any learning process. During this session, you will learn how to create a supportive learning environment through (body) language, different engagement methods, interaction rules, constructive and thought-through feedback and by fostering a growth mindset in your learners to engage with open research content. 
+
+<!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
 
 ## Activating and motivating your audience
 
@@ -54,6 +59,8 @@ You will practice various activation tools in a group-based interactive setting 
 
 Pooling all your skills, methods, techniques and tools from the previous workshops, in this session you will start designing your own workshop, lesson or talk on an open science topic of your choice. Through guidance and feedback from the instructors as well as hands-on guidelines and ready-to-use templates, you create a first draft for your own workshop to teach after the summer school. 
 
+<!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
+
 ## Leadership in Open Science: Skills, values, and culture
 
 [Sara Lil Middleton](https://www.osc.lmu.de/people/people/sara-lil-middleton.html), [Flavio Azevedo](https://flavioazevedo.com/about)\
@@ -61,7 +68,7 @@ Pooling all your skills, methods, techniques and tools from the previous worksho
 
 What does it mean to be a leader in open science? What makes an effective leader? During this interactive session we will examine the key leadership skills and explore how values shape styles of leadership, influence research and learning culture and ways of working. In this session, we will be joined by [Flavio Azevedo](https://flavioazevedo.com/about), assistant professor in Interdisciplinary Social Sciences at Utrecht University and Director of [FORRT](https://forrt.org/) (Framework for Open and Reproducible Research Training), who will share insights into his leadership journey within open science.
 
-<!-- EDIT The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/zqj4s" target="_blank">https://osf.io/</a> -->
+<!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
 
 
 ## Challenges in navigating leadership
@@ -71,12 +78,16 @@ What does it mean to be a leader in open science? What makes an effective leader
 
 Open science as a movement is growing. Awareness of open science principles and practices is uneven across teams, disciplines and institutions which can bring about challenges for leaders. In this session we will discuss these open science challenges and learn to recognize where our sphere of influence lies in a challenge mapping exercise.
 
+<!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
+
 ## Strategies in navigating leadership
 
 [Sara Lil Middleton](https://www.osc.lmu.de/people/people/sara-lil-middleton.html)\
 ![](img/sara-lil-middleton.png){width="100"} Tuesday 15 September, 13:15-14:00
 
 Awareness of our own spheres of influence is an important step towards positive change. In this session, we will put into practice the skills learned about effective leadership in a collective problem-solving exercise featuring challenges in adopting open science practices such as preregistration and large-scale collaborations. Equipped with a diverse set of strategies, we can then more confidently apply them to our own research and teaching contexts.
+
+<!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
 
 ## Design your own Open Science workshop: Part II
 
