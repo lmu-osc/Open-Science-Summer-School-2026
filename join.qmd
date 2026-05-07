@@ -51,7 +51,7 @@ By registering, you will get a confirmation email with a Zoom Webinar link. You 
 
 # Access the training material of the school
 
-Recording of the lectures, slides, and workshops material will be made accessible on our Open Science Framework repository under a CC BY 4.0 licence during the summer school and will  be accessible anytime afterwards.
+Recordings of the lectures, slides, and workshops materials will be made accessible on our Open Science Framework repository under a [CC-BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/deed.en) unless otherwise specified during the summer school and will be accessible anytime afterwards.
 
 **Access our summer school material here:**  [**https://osf.io/r2j8h/overview**](https://osf.io/r2j8h/overview){target="_blank"}
 
