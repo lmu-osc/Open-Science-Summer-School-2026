@@ -39,13 +39,12 @@ The learning environment is a key element in any learning process. During this s
 
 <!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
 
-## Activating and motivating your audience
+## Beyond the lecture: Activating learners in academic teaching
 
 [Sophie Renard](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html)\
 ![](img/sophie-renard.png){width="100"} Monday 14 September, 14:30-15:45
 
-During this session led by [Sophie Renard](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html) from [PROFiL](https://www.lmu.de/profil/de/), the focus is placed on exploring and implementing activation tools to boost motivation, engagement and attention in classroom and workshop settings. You will learn how to tailor your activation tools to your learning goals and your audience to meet the needs of various learners, regardless of their prior knowledge or background in open science.
-You will practice various activation tools in a group-based interactive setting while developing a feel for what is right for you as a (future) open science instructor and what can be effectively applied in the open science context.
+In this interactive session led by [Sophie Renard](https://www.lmu.de/profil/de/profil-ueber-uns/personen-und-beratungsfachgebiete/kontaktseite/sophie-renard-3cedfec5.html) from [PROFiL](https://www.lmu.de/profil/de/), participants will explore how short activation methods can support attention, engagement, and learning processes in higher education teaching and when teaching about Open Science. Especially in longer, input-heavy, or hybrid learning settings, small interactive interventions can help learners stay focused, cognitively engaged, and actively involved. Participants will experience and reflect on a range of low-threshold activation methods that can easily be integrated into different teaching formats with minimal preparation effort. The workshop combines short theoretical inputs with practical exercises, peer exchange, and reflection activities, enabling participants to directly connect the methods to their own teaching practice in the context of Open Science.
 
 
 <!-- **EDIT** The workshop slides can be found here: <a href="https://osf.io/tkwqs/files/h8xb5" target="_blank">https://osf.io/</a> -->
