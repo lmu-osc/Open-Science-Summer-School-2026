@@ -9,7 +9,7 @@
 </head
 ```
 
-These [workshops](#track2workshops) are for selected applicants of Track 2 only (see [Join](join.qmd)).
+These [workshops](#track2workshops) are for selected applicants of Track 2 only (see [Join](join.qmd)). All times are CEST.
 
 # Track 2 workshops {#track2workshops}
 

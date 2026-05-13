@@ -9,7 +9,7 @@
 </head
 ```
 
-These [workshops](#track1workshops) and [interactive sessions](#interactivesessions) are for selected applicants of Track 1 only (see [Join](join.qmd)).
+These [workshops](#track1workshops) and [interactive sessions](#interactivesessions) are for selected applicants of Track 1 only (see [Join](join.qmd)). All times are CEST.
 
 # Track 1 workshops {#track1workshops}
 

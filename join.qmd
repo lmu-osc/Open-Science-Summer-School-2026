@@ -40,7 +40,7 @@ In addition, you are strongly encouraged to **fill out** the follow-up **surveys
 # Join one or several of the public lectures (online)
 
 ::: {.callout-note}
-If you applied for Track 1, you do not need to separately register for the public lectures. Registering for one or more public lectures does **not** give you access to the workshops for selected applicants of any Track; for this you need to apply above. 
+If you applied for Track 1, you do *not* need to separately register for the public lectures. However, registering for one or more public lectures does **not** give you access to the workshops for selected applicants of any Track; for this you need to fill out the application form. 
 :::
 
 Anyone can register at any time before the end of the summer school to attend one, multiple, or all public lectures online.

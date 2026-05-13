@@ -9,7 +9,7 @@
 </head
 ```
 
-All lectures are opened for public registration (see [Join](join.qmd)).
+All lectures are opened for public registration (see [Join](join.qmd)). All times are CEST.
 
 ## Alexander Wuttke: Replicability crisis
 
@@ -77,6 +77,6 @@ Dr. [Tim Errington](https://osf.io/alh38/), Senior Director of Research at Cente
 
 Open Science principles have primarily been aimed at increasing equity by providing data and articles free of charge to interested users and integrity whereby the sharing of data sets, code, and registering methodologies can provide transparency. In the age of artificial intelligence this openness has ironically led to a surge of new problematic and unethical behaviours.  This presentation evidences this behaviour, as well as the consequences and potential solutions. 
 
-[Danny Maupin](https://www.surrey.ac.uk/people/danny-maupin) is a Research Fellow at the University of Surrey, whose work focuses on the effect of AI on research integrity. 
+[Danny Maupin](https://www.surrey.ac.uk/people/danny-maupin) is a Research Fellow at the University of Surrey, whose work focuses on the effects of AI on Open Science and research integrity. 
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/5m9j8) and [recording](https://osf.io/x639j/files/v8dqb) -->
