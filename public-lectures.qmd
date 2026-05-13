@@ -56,7 +56,7 @@ Dr. [Sarah von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-z
 ![](img/jonas-hagenberg.png){width="100"}
 Thursday 10 September, 09:00-09:45
 
-Many research questions require code to be answered. Clear, understandable and maintainable code is key to reduce analysis errors and improve reproducibility. [Jonas Hagenberg](https://www.helmholtz.ai/applied-ai/ai-consultancy-teams/piraud-team/), AI consultant at Helmholtz, will give an overview which concepts work for data analysis scripts and share specific recommendations and examples for clean code that are applicable across scientific disciplines. The lecture introduces key strategies such as following a style guide, code reuse, unified project structures and code review.
+Many research questions require code to be answered. Clear, understandable and maintainable code is key to reduce analysis errors and improve reproducibility. [Jonas Hagenberg](https://www.helmholtz.ai/applied-ai/ai-consultancy-teams/piraud-team/), AI consultant at Helmholtz, will give an overview which concepts work for data analysis scripts and share specific recommendations and examples for clean code that are applicable across scientific disciplines. The lecture introduces key strategies such as following a style guide, code reuse, unified project structures and (automatic) code review.
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/sgwqc) and [recording](https://osf.io/x639j/files/mrg5z) -->
 
@@ -71,11 +71,11 @@ Dr. [Tim Errington](https://osf.io/alh38/), Senior Director of Research at Cente
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/5m9j8) and [recording](https://osf.io/x639j/files/v8dqb) -->
 
 
-## Danny Maupin: Open Data and AI
+## Danny Maupin: Open Science: The tension between equity and exploitation 
 
 ![](img/danny-maupin.png){width="100"} Friday 11 September, 09:00-10:00
 
-Abstract TBD. <!-- EDIT -->
+Open Science principles have primarily been aimed at increasing equity by providing data and articles free of charge to interested users and integrity whereby the sharing of data sets, code, and registering methodologies can provide transparency. In the age of artificial intelligence this openness has ironically led to a surge of new problematic and unethical behaviours.  This presentation evidences this behaviour, as well as the consequences and potential solutions. 
 
 [Danny Maupin](https://www.surrey.ac.uk/people/danny-maupin) is a Research Fellow at the University of Surrey, whose work focuses on the effect of AI on research integrity. 
 
