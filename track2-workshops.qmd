@@ -15,7 +15,7 @@ These [workshops](#track2workshops) are for selected applicants of Track 2 only 
 
 ## Teaching Open Science: Core didactic principles
 
-[Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html)\
+[Sarah von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html)\
 ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 09:00-10:30
 
 Are you interested in introducing your peers, students, or lab group to open research, or thinking about offering engaging workshops on the topic? Or are you simply interested in how to make your teaching on open research topics better? This interactive, evidence-based workshop provides an overview of the core didactic principles to help you effectively teach open research to researchers and students. You will learn about the foundations of successful learning, Bloom's taxonomy, how to formulate learning goals and practice these skills in group-based activities. No prior teaching experience is required — just curiosity and a desire to apply these didactic skills in the context of open research.
@@ -23,7 +23,7 @@ Are you interested in introducing your peers, students, or lab group to open res
 <!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
 
 ## Concept planning for Open Science workshops (and courses)
-[Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html)\
+[Sarah von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html)\
 ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 10:45-11:45
 
 During this session, you will learn the fundamentals of planning and designing engaging workshops or courses on open science, how to enhance the motivation to learn and actively engage learners during, how to activate your learner's prior knowledge about open science and how to structure an individual lesson on an open science topic to enhance the learning process. 
@@ -32,7 +32,7 @@ During this session, you will learn the fundamentals of planning and designing e
 
 ## Creating a supportive learning environment
 
-[Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html)\
+[Sarah von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html)\
 ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 13:15-14:15
 
 The learning environment is a key element in any learning process. During this session, you will learn how to create a supportive learning environment through (body) language, different engagement methods, interaction rules, constructive and thought-through feedback and by fostering a growth mindset in your learners to engage with open research content. 
@@ -52,7 +52,7 @@ In this interactive session led by [Sophie Renard](https://www.lmu.de/profil/de/
 
 ## Design your own Open Science workshop: Part I
 
-[Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html),
+[Sarah von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html),
 [Sara Lil Middleton](https://www.osc.lmu.de/people/people/sara-lil-middleton.html)\
 ![](img/sara-lil-middleton.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 16:00-17:30
 
@@ -91,7 +91,7 @@ Awareness of our own spheres of influence is an important step towards positive 
 ## Design your own Open Science workshop: Part II
 
 [Sara Lil Middleton](https://www.osc.lmu.de/people/people/sara-lil-middleton.html),
-[Sarah von Grebmer von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html),
+[Sarah von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html),
 [Malika Ihle](https://www.osc.lmu.de/people/people/malika-ihle.html)\
 ![](img/malika-ihle.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} ![](img/sara-lil-middleton.png){width="100"} Tuesday 15 September, 14:15-15:45
 
@@ -100,7 +100,7 @@ Equipped with new skills about leadership, accessibility, and cultural awareness
 ## Presentations, Q&A, and wrap-up
 
 [Sara Lil Middleton](https://www.osc.lmu.de/people/people/sara-lil-middleton.html),
-[Sarah von Grebmer von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html),
+[Sarah von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html),
 [Malika Ihle](https://www.osc.lmu.de/people/people/malika-ihle.html)\
 ![](img/malika-ihle.png){width="100"} ![](img/sarah-von-grebmer.png){width="100"} ![](img/sara-lil-middleton.png){width="100"} Tuesday 15 September, 16:00-17:00
 
