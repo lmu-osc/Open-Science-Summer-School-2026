@@ -27,11 +27,8 @@ The self-paced tutorial for this workshop can be found here: <a href="https://lm
 [Reema Gupta](https://www.osc.lmu.de/people/people/reema-gupta.html), [Laura Meier](https://www.osc.lmu.de/people/people/laura-meier.html), [Sara Lil Middleton](https://www.osc.lmu.de/people/people/sara-lil-middleton.html)\
 ![](img/sara-lil-middleton.png){width="100"} ![](img/laura-meier.png){width="100"} ![](img/reema-gupta.png){width="100"} Tuesday 8 September, 10:00-11:45
 
-This session is centered around the FAIR principles — Findability, Accessibility, Interoperability, and Reusability — and their practical application in managing your research data efficiently. Learn to manage your data in a way that enhances its value and accessibility for the wider research community.
-
-Appreciation of adequate data management mostly occurs very late, e.g., when looking into someone else’s data folder. We are here artificially advancing this experience: You will investigate a publicly available dataset and complete exercises regarding data organization, documentation, and publication aspects.
-
-The material for this workshop can be found here:
+This session covers the FAIR principles (Findability, Accessibility, Interoperability, and Reusability) and turns them into manageable actions for researchers. You will learn where to focus your effort across the FAIR principles, how to organize and name your files, choose appropriate formats, create data dictionaries and READMEs, discover the standards your field already uses, and make informed choices about licensing and repositories for sharing your data.
+The self-guided tutorial this session is based on can be followed independently and contains all the detailed information covered:
 <a href="https://lmu-osc.github.io/FAIR-Data-Management/" target="_blank">https://lmu-osc.github.io/FAIR-Data-Management/</a>
 
 <!-- **EDIT**The workshop slides can be found here: <a href="https://osf.io/x639j/files/qjtec/" target="_blank">https://osf.io/</a> -->

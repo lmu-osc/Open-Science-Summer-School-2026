@@ -31,7 +31,7 @@ Dr. [Malika Ihle](https://www.osc.lmu.de/people/people/malika-ihle.html), LMU Op
 
 ![](img/reema-gupta.png){width="100"} Tuesday 8 September, 9:00-09:45\
 
-Dr. [Reema Gupta](https://www.osc.lmu.de/people/people/reema-gupta.html) from the LMU Open Science Center will explain why we should share data and the fundamentals of data sharing practicalities.
+[Reema Gupta](https://www.osc.lmu.de/people/people/reema-gupta.html) from the LMU Open Science Center will make the case for sharing research data as a cornerstone of good scientific practice, introduce the FAIR principles (Findable, Accessible, Interoperable, Reusable) as a practical framework across disciplines, and surface common tensions researchers face, such as balancing openness with legitimate restrictions, recognizing both data collection and data reuse, and handling reanalysis constructively, inviting attendees to reflect on how these trade-offs play out in their own field and practice.
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/m3wrf) and [recording](https://osf.io/x639j/files/68cqh) -->
 
