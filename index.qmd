@@ -41,7 +41,7 @@ After joining this track, participants are strongly encouraged to **(co-)deliver
 
 ## Funding & Partners
 
-The organiser of this summer school, LMU Open Science Center train-the-trainer program coordinator Dr. [Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html) are funded by the [Volkswagen Foundation](https://www.volkswagenstiftung.de/en) Pioneer Project grant. We further collaborate with the [University Library](https://www.ub.lmu.de/de/) of LMU, [LMU PROFiL](https://www.lmu.de/profil/de/) and [FORRT](https://forrt.org/).
+The organiser of this summer school, LMU Open Science Center train-the-trainer program coordinator Dr. [Sarah von Grebmer zu Wolfsthurn](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html), is funded by the [Volkswagen Foundation](https://www.volkswagenstiftung.de/en) Pioneer Project grant. We further collaborate with the [University Library](https://www.ub.lmu.de/de/) of LMU, [LMU PROFiL](https://www.lmu.de/profil/de/) and [FORRT](https://forrt.org/).
 
 ![](img/OSC-LMU-UB.png){fig-alt="OSC, LMU and UB logos" fig-align="center" width="400"}
 ![](img/profil-logo.png){fig-alt="Profil logo" fig-align="center" width="150"}
