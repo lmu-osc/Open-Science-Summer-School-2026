@@ -60,13 +60,12 @@ Many research questions require code to be answered. Clear, understandable and m
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/sgwqc) and [recording](https://osf.io/x639j/files/mrg5z) -->
 
-## Tim Errington: Assessing research replicablity
+## Tim Errington: Assessing research repeatability
 
 ![](img/tim-errington.png){width="100"} Thursday 10 September, 16:30-17:30
 
-Replicability is an important feature of scientific research, but aspects of contemporary research culture, such as an emphasis on novelty, can make replicability seem less important than it should be. The Reproducibility Project: Cancer Biology was set up to provide evidence about the replicability of preclinical research in cancer biology by repeating selected experiments from high-impact papers. A total of 50 experiments from 23 papers were repeated, generating data about the replicability of a total of 158 effects.
+Repeatability is an important feature of scientific research, yet certain aspects of the current research culture, such as an emphasis on novelty, can make repeatability seem less important than it should be. In this lecture, [Tim Errington](https://www.cos.io/team/tim-errington), Senior Director of Resarch at the Center for Open Science, will present findings and implications from large-scale efforts to repeat findings across the social-behavioral sciences and preclinical biomedicine.
 
-Dr. [Tim Errington](https://osf.io/alh38/), Senior Director of Research at Center for Open Science, will present and discuss the results and implications of this large replication project.
 
 <!-- EDIT **Materials**: [lecture slides](https://osf.io/x639j/files/5m9j8) and [recording](https://osf.io/x639j/files/v8dqb) -->
 
