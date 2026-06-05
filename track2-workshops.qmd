@@ -22,11 +22,11 @@ Are you interested in introducing your peers, students, or lab group to open res
 
 <!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
 
-## Concept planning for Open Science workshops (and courses)
+## Concept planning for Open Science events
 [Sarah von Grebmer](https://www.osc.lmu.de/people/people/sarah-von-grebmer-zu-wolfsthurn.html)\
 ![](img/sarah-von-grebmer.png){width="100"} Monday 14 September, 10:45-11:45
 
-During this session, you will learn the fundamentals of planning and designing engaging workshops or courses on open science, how to enhance the motivation to learn and actively engage learners during, how to activate your learner's prior knowledge about open science and how to structure an individual lesson on an open science topic to enhance the learning process. 
+During this session, you will learn the fundamentals of planning and designing engaging events such as workshops, talks, seminars, or courses on open science, how to enhance the motivation to learn and actively engage learners during, how to activate your learner's prior knowledge about open science and how to structure an individual lesson on an open science topic to enhance the learning process. 
 
 <!-- ADD TTT GITHUB WEBSITE The workshop slides can be found here: <a href="https://xx/" target="_blank">https://xxxx/</a> -->
 
