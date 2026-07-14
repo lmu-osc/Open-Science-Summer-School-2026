@@ -5,7 +5,7 @@ You can apply for Track 1, Track 2, or both, by filling out the application form
 Applicants can choose to attend in-person at the Philologicum Library, **Ludwigstraße 25, 80539 München, Germany**, or online, on **Zoom**.
 
 ::: {.callout-important}
-Before applying, please carefully read the selection and eligibility criteria.
+Before applying, please carefully read the selection and eligibility criteria. Please also note that we are unable to provide travel or accommodation grants.
 :::
 
 ## Apply to attend Track 1 “Open Science knowledge and skills”
@@ -47,7 +47,7 @@ Anyone can register at any time before the end of the summer school to attend on
 
 **Register for the public lectures here:** [**https://www.pretix.osc.lmu.de/lmu-osc/OSSS26/** ](https://www.pretix.osc.lmu.de/lmu-osc/OSSS26/){target="_blank"}
 
-By registering, you will get a confirmation email with a Zoom Webinar link. You can request to receive a certificate of attendance if you attend all eight lectures while signed-in to Zoom.
+By registering, you will get a confirmation email with a Zoom Webinar link. You can request to receive a certificate of attendance if you attend all lectures while signed-in to Zoom.
 
 # Access the training material of the school
 
